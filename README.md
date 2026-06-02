@@ -45,25 +45,25 @@ Nuclear security is a critical global challenge. This project analyzes **33 year
 
 ### 1. Nuclear Security Incidents Heatmap (1993-2025)
 
-![Heatmap](images/nuclear_incident_heatmap.png)
+![Heatmap](nuclear_incident_heatmap.png)
 
 *Color intensity reveals concentration of incidents across 33 years. Red areas indicate high incident periods.*
 
 ### 2. Comprehensive Dashboard
 
-![Dashboard](images/nuclear_incident_dashboard.png)
+![Dashboard](nuclear_incident_dashboard.png)
 
 *Six-panel executive dashboard showing trends, category proportions, era comparisons, and cumulative growth.*
 
 ### 3. Era Comparison Radar Chart
 
-![Radar Chart](images/nuclear_incident_radar.png)
+![Radar Chart](nuclear_incident_radar.png)
 
 *Compares incident profiles between the historical era (1993-2009) and recent era (2020-2025).*
 
 ### 4. Basic Trend Analysis
 
-![Basic Analysis](images/nuclear_incident_basic_analysis.png)
+![Basic Analysis](nuclear_incident_basic_analysis.png)
 
 *Four-panel analysis of total incidents, category breakdown, proportions, and nuclear material incidents.*
 
