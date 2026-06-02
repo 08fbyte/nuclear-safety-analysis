@@ -128,13 +128,13 @@ Steps
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/nuclear-safety-event-analyzer.git
-cd nuclear-safety-event-analyzer
+git clone https://github.com/08fbyte/nuclear-safety-analysis.git
+cd nuclear-safety-analysis
 Launch Jupyter Notebook
 
 bash
 jupyter notebook
-Open and run code/nuclear_safety_analyzer.ipynb
+Open and run code/nuclear_safety_analysis.ipynb
 
 Quick Start Code
 python
